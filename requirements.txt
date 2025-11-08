@@ -1,8 +1,12 @@
 requests
 pandas
 numpy
+matplotlib
 jupyter
 jupyter-core
 jupyter-client
 jupyter-console
 jupyterlab-server
+torch
+tensorflow
+ipykernel
