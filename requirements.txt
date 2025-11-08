@@ -1,0 +1,8 @@
+requests
+pandas
+numpy
+jupyter
+jupyter-core
+jupyter-client
+jupyter-console
+jupyterlab-server
